@@ -1,2 +1,2 @@
 # dynamicmenu
-The interactive sweets bar menu
+The interactive sweets bar menu visualization
